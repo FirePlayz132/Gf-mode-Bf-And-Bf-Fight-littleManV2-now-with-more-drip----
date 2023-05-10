@@ -204,8 +204,8 @@
 	"sing_duration": 4,
 	"healthicon": "monster",
 	"position": [
-		650,
-		310
+		590,
+		330
 	],
 	"camera_position": [
 		0,
@@ -216,6 +216,6 @@
 	"healthbar_colors": [
 		49,
 		176,
-		229
+		null
 	]
 }
