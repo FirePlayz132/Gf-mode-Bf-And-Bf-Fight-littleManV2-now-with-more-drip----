@@ -2,136 +2,116 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				10
-			],
-			"loop": false,
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Dad Sing Note LEFT",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				-30
-			],
-			"loop": false,
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Dad Sing Note DOWN",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-6,
-				50
-			],
-			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Dad Sing Note UP",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				27
-			],
-			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
-			"indices": []
-		},
-		{
-			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Dad idle dance",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle-loop",
-			"indices": [
-				10,
-				11,
-				12,
-				12
-			],
-			"name": "Dad idle dance"
+			"loop": false,
+			"name": "idle"
 		},
 		{
 			"offsets": [
 				-9,
-				10
+				1
 			],
-			"loop": true,
+			"indices": [],
 			"fps": 24,
-			"anim": "singLEFT-loop",
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			],
-			"name": "Dad Sing Note LEFT"
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
 		},
 		{
 			"offsets": [
-				0,
-				27
+				-8,
+				-8
 			],
-			"loop": true,
+			"indices": [],
 			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"indices": [
-				15,
-				16,
-				17,
-				18
-			],
-			"name": "Dad Sing Note RIGHT"
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
 		},
 		{
 			"offsets": [
-				-6,
-				50
+				-9,
+				7
 			],
-			"loop": true,
+			"indices": [],
 			"fps": 24,
-			"anim": "singUP-loop",
-			"indices": [
-				56,
-				57,
-				58,
-				59
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-2,
+				2
 			],
-			"name": "Dad Sing Note UP"
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-17,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "GUITARright"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "GUITARleft"
+		},
+		{
+			"offsets": [
+				1,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "GUITARdown"
+		},
+		{
+			"offsets": [
+				-18,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "GUITARup"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/DADDY_DEAREST",
 	"position": [
 		0,
-		0
+		560
 	],
 	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		161,
+		161,
+		161
 	],
 	"camera_position": [
 		0,
