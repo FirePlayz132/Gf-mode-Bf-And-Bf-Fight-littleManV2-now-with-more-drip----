@@ -3,131 +3,65 @@
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				-1
+				-22,
+				-3
 			],
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "BF idle dance"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				12,
-				-6
-			],
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-50
-			],
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-29,
-				27
-			],
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
+			"fps": 24,
+			"name": "phone open",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-38,
-				-7
+				-22,
+				-3
 			],
+			"anim": "singDOWN",
 			"fps": 24,
+			"name": "phone press",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				2
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"fps": 24,
+			"name": "phone done",
+			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				12,
-				24
+				-22,
+				-3
 			],
+			"anim": "idle",
 			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "BF NOTE LEFT MISS"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-11,
-				-19
-			],
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "BF NOTE DOWN MISS"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-29,
-				27
-			],
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "BF NOTE UP MISS"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-30,
-				21
-			],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				5
-			],
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
+			"name": "phone idle0",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Mom_Assets",
+	"image": "characters/DADDY_DEAREST",
 	"position": [
 		0,
-		350
+		560
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "dad",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		161,
+		161,
+		161
 	],
 	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }
