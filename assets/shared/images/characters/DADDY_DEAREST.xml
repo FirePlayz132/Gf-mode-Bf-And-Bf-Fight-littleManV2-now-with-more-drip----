@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DADDY_DEAREST.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GUITARdown0000" x="10" y="10" width="115" height="112" frameX="0" frameY="-4" frameWidth="116" frameHeight="117"/>
+	<SubTexture name="GUITARdown0001" x="10" y="10" width="115" height="112" frameX="0" frameY="-4" frameWidth="116" frameHeight="117"/>
+	<SubTexture name="GUITARdown0002" x="135" y="10" width="110" height="116" frameX="-6" frameY="-1" frameWidth="116" frameHeight="117"/>
+	<SubTexture name="GUITARdown0003" x="135" y="10" width="110" height="116" frameX="-6" frameY="-1" frameWidth="116" frameHeight="117"/>
+	<SubTexture name="GUITARdown0004" x="255" y="10" width="108" height="117" frameX="-8" frameY="0" frameWidth="116" frameHeight="117"/>
+	<SubTexture name="GUITARdown0005" x="255" y="10" width="108" height="117" frameX="-8" frameY="0" frameWidth="116" frameHeight="117"/>
+	<SubTexture name="GUITARdown0006" x="255" y="10" width="108" height="117" frameX="-8" frameY="0" frameWidth="116" frameHeight="117"/>
+	<SubTexture name="GUITARdown0007" x="255" y="10" width="108" height="117" frameX="-8" frameY="0" frameWidth="116" frameHeight="117"/>
+	<SubTexture name="GUITARdown0008" x="255" y="10" width="108" height="117" frameX="-8" frameY="0" frameWidth="116" frameHeight="117"/>
+	<SubTexture name="GUITARdown0009" x="255" y="10" width="108" height="117" frameX="-8" frameY="0" frameWidth="116" frameHeight="117"/>
+	<SubTexture name="GUITARleft0000" x="373" y="10" width="105" height="119" frameX="0" frameY="-1" frameWidth="107" frameHeight="120"/>
+	<SubTexture name="GUITARleft0001" x="373" y="10" width="105" height="119" frameX="0" frameY="-1" frameWidth="107" frameHeight="120"/>
+	<SubTexture name="GUITARleft0002" x="488" y="10" width="104" height="120" frameX="-3" frameY="0" frameWidth="107" frameHeight="120"/>
+	<SubTexture name="GUITARleft0003" x="488" y="10" width="104" height="120" frameX="-3" frameY="0" frameWidth="107" frameHeight="120"/>
+	<SubTexture name="GUITARleft0004" x="602" y="10" width="104" height="120" frameX="-3" frameY="0" frameWidth="107" frameHeight="120"/>
+	<SubTexture name="GUITARleft0005" x="602" y="10" width="104" height="120" frameX="-3" frameY="0" frameWidth="107" frameHeight="120"/>
+	<SubTexture name="GUITARleft0006" x="602" y="10" width="104" height="120" frameX="-3" frameY="0" frameWidth="107" frameHeight="120"/>
+	<SubTexture name="GUITARleft0007" x="602" y="10" width="104" height="120" frameX="-3" frameY="0" frameWidth="107" frameHeight="120"/>
+	<SubTexture name="GUITARleft0008" x="602" y="10" width="104" height="120" frameX="-3" frameY="0" frameWidth="107" frameHeight="120"/>
+	<SubTexture name="GUITARleft0009" x="602" y="10" width="104" height="120" frameX="-3" frameY="0" frameWidth="107" frameHeight="120"/>
+	<SubTexture name="GUITARright0000" x="716" y="10" width="111" height="122"/>
+	<SubTexture name="GUITARright0001" x="716" y="10" width="111" height="122"/>
+	<SubTexture name="GUITARright0002" x="837" y="10" width="110" height="122" frameX="0" frameY="0" frameWidth="111" frameHeight="122"/>
+	<SubTexture name="GUITARright0003" x="837" y="10" width="110" height="122" frameX="0" frameY="0" frameWidth="111" frameHeight="122"/>
+	<SubTexture name="GUITARright0004" x="10" y="142" width="110" height="122" frameX="0" frameY="0" frameWidth="111" frameHeight="122"/>
+	<SubTexture name="GUITARright0005" x="10" y="142" width="110" height="122" frameX="0" frameY="0" frameWidth="111" frameHeight="122"/>
+	<SubTexture name="GUITARright0006" x="10" y="142" width="110" height="122" frameX="0" frameY="0" frameWidth="111" frameHeight="122"/>
+	<SubTexture name="GUITARright0007" x="10" y="142" width="110" height="122" frameX="0" frameY="0" frameWidth="111" frameHeight="122"/>
+	<SubTexture name="GUITARright0008" x="10" y="142" width="110" height="122" frameX="0" frameY="0" frameWidth="111" frameHeight="122"/>
+	<SubTexture name="GUITARright0009" x="10" y="142" width="110" height="122" frameX="0" frameY="0" frameWidth="111" frameHeight="122"/>
+	<SubTexture name="GUITARup0000" x="130" y="142" width="95" height="128" frameX="-2" frameY="0" frameWidth="99" frameHeight="128"/>
+	<SubTexture name="GUITARup0001" x="130" y="142" width="95" height="128" frameX="-2" frameY="0" frameWidth="99" frameHeight="128"/>
+	<SubTexture name="GUITARup0002" x="235" y="142" width="99" height="126" frameX="0" frameY="-2" frameWidth="99" frameHeight="128"/>
+	<SubTexture name="GUITARup0003" x="235" y="142" width="99" height="126" frameX="0" frameY="-2" frameWidth="99" frameHeight="128"/>
+	<SubTexture name="GUITARup0004" x="344" y="142" width="99" height="125" frameX="0" frameY="-3" frameWidth="99" frameHeight="128"/>
+	<SubTexture name="GUITARup0005" x="344" y="142" width="99" height="125" frameX="0" frameY="-3" frameWidth="99" frameHeight="128"/>
+	<SubTexture name="GUITARup0006" x="344" y="142" width="99" height="125" frameX="0" frameY="-3" frameWidth="99" frameHeight="128"/>
+	<SubTexture name="GUITARup0007" x="344" y="142" width="99" height="125" frameX="0" frameY="-3" frameWidth="99" frameHeight="128"/>
+	<SubTexture name="GUITARup0008" x="344" y="142" width="99" height="125" frameX="0" frameY="-3" frameWidth="99" frameHeight="128"/>
+	<SubTexture name="GUITARup0009" x="344" y="142" width="99" height="125" frameX="0" frameY="-3" frameWidth="99" frameHeight="128"/>
+	<SubTexture name="bonk0000" x="453" y="142" width="115" height="131" frameX="0" frameY="0" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0001" x="578" y="142" width="94" height="73" frameX="-21" frameY="-57" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0002" x="682" y="142" width="95" height="75" frameX="-21" frameY="-57" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0003" x="787" y="142" width="95" height="71" frameX="-21" frameY="-57" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0004" x="892" y="142" width="96" height="73" frameX="-21" frameY="-56" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0005" x="10" y="283" width="96" height="73" frameX="-21" frameY="-56" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0006" x="116" y="283" width="87" height="66" frameX="-21" frameY="-63" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0007" x="116" y="283" width="87" height="66" frameX="-21" frameY="-63" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0008" x="116" y="283" width="87" height="66" frameX="-21" frameY="-63" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0009" x="116" y="283" width="87" height="66" frameX="-21" frameY="-63" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0010" x="116" y="283" width="87" height="66" frameX="-21" frameY="-63" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0011" x="116" y="283" width="87" height="66" frameX="-21" frameY="-63" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0012" x="116" y="283" width="87" height="66" frameX="-21" frameY="-63" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="bonk0013" x="213" y="283" width="87" height="57" frameX="-21" frameY="-72" frameWidth="117" frameHeight="132"/>
+	<SubTexture name="down0000" x="310" y="283" width="110" height="112" frameX="0" frameY="-4" frameWidth="110" frameHeight="117"/>
+	<SubTexture name="down0001" x="310" y="283" width="110" height="112" frameX="0" frameY="-4" frameWidth="110" frameHeight="117"/>
+	<SubTexture name="down0002" x="430" y="283" width="105" height="116" frameX="-2" frameY="-1" frameWidth="110" frameHeight="117"/>
+	<SubTexture name="down0003" x="430" y="283" width="105" height="116" frameX="-2" frameY="-1" frameWidth="110" frameHeight="117"/>
+	<SubTexture name="down0004" x="545" y="283" width="103" height="117" frameX="-3" frameY="0" frameWidth="110" frameHeight="117"/>
+	<SubTexture name="down0005" x="545" y="283" width="103" height="117" frameX="-3" frameY="0" frameWidth="110" frameHeight="117"/>
+	<SubTexture name="down0006" x="545" y="283" width="103" height="117" frameX="-3" frameY="0" frameWidth="110" frameHeight="117"/>
+	<SubTexture name="down0007" x="545" y="283" width="103" height="117" frameX="-3" frameY="0" frameWidth="110" frameHeight="117"/>
+	<SubTexture name="down0008" x="545" y="283" width="103" height="117" frameX="-3" frameY="0" frameWidth="110" frameHeight="117"/>
+	<SubTexture name="down0009" x="545" y="283" width="103" height="117" frameX="-3" frameY="0" frameWidth="110" frameHeight="117"/>
+	<SubTexture name="idle0000" x="658" y="283" width="107" height="121" frameX="-4" frameY="0" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0001" x="658" y="283" width="107" height="121" frameX="-4" frameY="0" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0002" x="775" y="283" width="111" height="120" frameX="-2" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0003" x="775" y="283" width="111" height="120" frameX="-2" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0004" x="896" y="283" width="114" height="120" frameX="0" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0005" x="896" y="283" width="114" height="120" frameX="0" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0006" x="10" y="414" width="113" height="120" frameX="-1" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0007" x="10" y="414" width="113" height="120" frameX="-1" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0008" x="10" y="414" width="113" height="120" frameX="-1" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0009" x="10" y="414" width="113" height="120" frameX="-1" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0010" x="10" y="414" width="113" height="120" frameX="-1" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0011" x="10" y="414" width="113" height="120" frameX="-1" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0012" x="10" y="414" width="113" height="120" frameX="-1" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="idle0013" x="10" y="414" width="113" height="120" frameX="-1" frameY="-1" frameWidth="114" frameHeight="121"/>
+	<SubTexture name="left0000" x="133" y="414" width="97" height="119" frameX="0" frameY="-1" frameWidth="97" frameHeight="120"/>
+	<SubTexture name="left0001" x="133" y="414" width="97" height="119" frameX="0" frameY="-1" frameWidth="97" frameHeight="120"/>
+	<SubTexture name="left0002" x="240" y="414" width="96" height="120" frameX="-1" frameY="0" frameWidth="97" frameHeight="120"/>
+	<SubTexture name="left0003" x="240" y="414" width="96" height="120" frameX="-1" frameY="0" frameWidth="97" frameHeight="120"/>
+	<SubTexture name="left0004" x="346" y="414" width="96" height="120" frameX="-1" frameY="0" frameWidth="97" frameHeight="120"/>
+	<SubTexture name="left0005" x="346" y="414" width="96" height="120" frameX="-1" frameY="0" frameWidth="97" frameHeight="120"/>
+	<SubTexture name="left0006" x="346" y="414" width="96" height="120" frameX="-1" frameY="0" frameWidth="97" frameHeight="120"/>
+	<SubTexture name="left0007" x="346" y="414" width="96" height="120" frameX="-1" frameY="0" frameWidth="97" frameHeight="120"/>
+	<SubTexture name="left0008" x="346" y="414" width="96" height="120" frameX="-1" frameY="0" frameWidth="97" frameHeight="120"/>
+	<SubTexture name="left0009" x="346" y="414" width="96" height="120" frameX="-1" frameY="0" frameWidth="97" frameHeight="120"/>
+	<SubTexture name="phone done0000" x="452" y="414" width="98" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0001" x="452" y="414" width="98" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0002" x="560" y="414" width="99" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0003" x="560" y="414" width="99" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0004" x="669" y="414" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0005" x="669" y="414" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0006" x="779" y="414" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0007" x="889" y="414" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0008" x="10" y="544" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0009" x="120" y="544" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0010" x="120" y="544" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0011" x="120" y="544" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0012" x="120" y="544" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0013" x="120" y="544" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0014" x="120" y="544" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0015" x="120" y="544" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0016" x="230" y="544" width="101" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0017" x="230" y="544" width="101" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0018" x="341" y="544" width="107" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0019" x="341" y="544" width="107" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0020" x="458" y="544" width="114" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0021" x="458" y="544" width="114" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0022" x="582" y="544" width="111" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0023" x="582" y="544" width="111" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0024" x="703" y="544" width="93" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0025" x="703" y="544" width="93" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0026" x="806" y="544" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0027" x="806" y="544" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0028" x="907" y="544" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0029" x="907" y="544" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0030" x="907" y="544" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0031" x="907" y="544" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0032" x="907" y="544" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0033" x="907" y="544" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0034" x="10" y="674" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0035" x="10" y="674" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0036" x="111" y="674" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0037" x="111" y="674" width="91" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0038" x="212" y="674" width="96" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0039" x="212" y="674" width="96" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0040" x="318" y="674" width="96" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0041" x="318" y="674" width="96" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0042" x="424" y="674" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0043" x="424" y="674" width="100" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0044" x="534" y="674" width="101" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0045" x="534" y="674" width="101" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0046" x="645" y="674" width="102" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0047" x="645" y="674" width="102" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0048" x="645" y="674" width="102" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0049" x="645" y="674" width="102" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0050" x="757" y="674" width="102" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0051" x="757" y="674" width="102" height="120" frameX="0" frameY="-5" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0052" x="869" y="674" width="102" height="123" frameX="0" frameY="-2" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0053" x="869" y="674" width="102" height="123" frameX="0" frameY="-2" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0054" x="10" y="807" width="102" height="123" frameX="0" frameY="-2" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0055" x="10" y="807" width="102" height="123" frameX="0" frameY="-2" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0056" x="122" y="807" width="102" height="123" frameX="0" frameY="-2" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0057" x="122" y="807" width="102" height="123" frameX="0" frameY="-2" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0058" x="122" y="807" width="102" height="123" frameX="0" frameY="-2" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0059" x="122" y="807" width="102" height="123" frameX="0" frameY="-2" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0060" x="122" y="807" width="102" height="123" frameX="0" frameY="-2" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0061" x="234" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0062" x="234" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0063" x="346" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0064" x="346" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0065" x="458" y="807" width="102" height="125" frameX="0" frameY="0" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0066" x="458" y="807" width="102" height="125" frameX="0" frameY="0" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0067" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0068" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0069" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0070" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0071" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0072" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0073" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0074" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0075" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0076" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0077" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0078" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0079" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0080" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0081" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0082" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0083" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0084" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0085" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0086" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0087" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0088" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0089" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0090" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0091" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0092" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0093" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0094" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0095" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0096" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0097" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0098" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone done0099" x="570" y="807" width="102" height="124" frameX="0" frameY="-1" frameWidth="114" frameHeight="125"/>
+	<SubTexture name="phone open0000" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0001" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0002" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0003" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0004" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0005" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0006" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0007" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0008" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0009" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0010" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0011" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0012" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0013" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0014" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0015" x="792" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0016" x="902" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0017" x="10" y="942" width="100" height="120"/>
+	<SubTexture name="phone open0018" x="120" y="942" width="100" height="120"/>
+	<SubTexture name="phone open0019" x="230" y="942" width="100" height="120"/>
+	<SubTexture name="phone open0020" x="230" y="942" width="100" height="120"/>
+	<SubTexture name="phone open0021" x="340" y="942" width="100" height="120"/>
+	<SubTexture name="phone open0022" x="450" y="942" width="100" height="120"/>
+	<SubTexture name="phone open0023" x="560" y="942" width="100" height="120"/>
+	<SubTexture name="phone open0024" x="670" y="942" width="100" height="120"/>
+	<SubTexture name="phone open0025" x="780" y="942" width="100" height="120"/>
+	<SubTexture name="phone open0026" x="890" y="942" width="100" height="120"/>
+	<SubTexture name="phone open0027" x="10" y="1072" width="100" height="120"/>
+	<SubTexture name="phone open0028" x="120" y="1072" width="100" height="120"/>
+	<SubTexture name="phone open0029" x="230" y="1072" width="100" height="120"/>
+	<SubTexture name="phone open0030" x="340" y="1072" width="100" height="120"/>
+	<SubTexture name="phone open0031" x="450" y="1072" width="100" height="120"/>
+	<SubTexture name="phone open0032" x="560" y="1072" width="100" height="120"/>
+	<SubTexture name="phone open0033" x="670" y="1072" width="100" height="120"/>
+	<SubTexture name="phone open0034" x="780" y="1072" width="100" height="120"/>
+	<SubTexture name="phone open0035" x="890" y="1072" width="100" height="120"/>
+	<SubTexture name="phone open0036" x="10" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0037" x="120" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0038" x="230" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0039" x="340" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0040" x="450" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0041" x="560" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0042" x="670" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0043" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0044" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0045" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0046" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0047" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0048" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0049" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0050" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0051" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0052" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0053" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0054" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0055" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0056" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0057" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0058" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0059" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0060" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0061" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0062" x="682" y="807" width="100" height="120"/>
+	<SubTexture name="phone open0063" x="780" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0064" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0065" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0066" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0067" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0068" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0069" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0070" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0071" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0072" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0073" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0074" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0075" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0076" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0077" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0078" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0079" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0080" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0081" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0082" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0083" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0084" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0085" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0086" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0087" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0088" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0089" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0090" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0091" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0092" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0093" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0094" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0095" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0096" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0097" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0098" x="890" y="1202" width="100" height="120"/>
+	<SubTexture name="phone open0099" x="10" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0100" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0101" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0102" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0103" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0104" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0105" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0106" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0107" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0108" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0109" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0110" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0111" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0112" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0113" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0114" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0115" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0116" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone open0117" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0000" x="120" y="1332" width="98" height="120" frameX="0" frameY="0" frameWidth="100" frameHeight="120"/>
+	<SubTexture name="phone press0001" x="120" y="1332" width="98" height="120" frameX="0" frameY="0" frameWidth="100" frameHeight="120"/>
+	<SubTexture name="phone press0002" x="228" y="1332" width="99" height="120" frameX="0" frameY="0" frameWidth="100" frameHeight="120"/>
+	<SubTexture name="phone press0003" x="228" y="1332" width="99" height="120" frameX="0" frameY="0" frameWidth="100" frameHeight="120"/>
+	<SubTexture name="phone press0004" x="337" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0005" x="337" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0006" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0007" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0008" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0009" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0010" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0011" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0012" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0013" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0014" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0015" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="phone press0016" x="447" y="1332" width="100" height="120"/>
+	<SubTexture name="right0000" x="557" y="1332" width="118" height="122" frameX="-2" frameY="0" frameWidth="120" frameHeight="122"/>
+	<SubTexture name="right0001" x="557" y="1332" width="118" height="122" frameX="-2" frameY="0" frameWidth="120" frameHeight="122"/>
+	<SubTexture name="right0002" x="685" y="1332" width="118" height="122" frameX="-1" frameY="0" frameWidth="120" frameHeight="122"/>
+	<SubTexture name="right0003" x="685" y="1332" width="118" height="122" frameX="-1" frameY="0" frameWidth="120" frameHeight="122"/>
+	<SubTexture name="right0004" x="813" y="1332" width="118" height="122" frameX="0" frameY="0" frameWidth="120" frameHeight="122"/>
+	<SubTexture name="right0005" x="813" y="1332" width="118" height="122" frameX="0" frameY="0" frameWidth="120" frameHeight="122"/>
+	<SubTexture name="right0006" x="813" y="1332" width="118" height="122" frameX="0" frameY="0" frameWidth="120" frameHeight="122"/>
+	<SubTexture name="right0007" x="813" y="1332" width="118" height="122" frameX="0" frameY="0" frameWidth="120" frameHeight="122"/>
+	<SubTexture name="right0008" x="813" y="1332" width="118" height="122" frameX="0" frameY="0" frameWidth="120" frameHeight="122"/>
+	<SubTexture name="right0009" x="813" y="1332" width="118" height="122" frameX="0" frameY="0" frameWidth="120" frameHeight="122"/>
+	<SubTexture name="up0000" x="10" y="1464" width="94" height="128" frameX="-2" frameY="0" frameWidth="97" frameHeight="128"/>
+	<SubTexture name="up0001" x="10" y="1464" width="94" height="128" frameX="-2" frameY="0" frameWidth="97" frameHeight="128"/>
+	<SubTexture name="up0002" x="114" y="1464" width="96" height="126" frameX="-1" frameY="-2" frameWidth="97" frameHeight="128"/>
+	<SubTexture name="up0003" x="114" y="1464" width="96" height="126" frameX="-1" frameY="-2" frameWidth="97" frameHeight="128"/>
+	<SubTexture name="up0004" x="220" y="1464" width="97" height="125" frameX="0" frameY="-3" frameWidth="97" frameHeight="128"/>
+	<SubTexture name="up0005" x="220" y="1464" width="97" height="125" frameX="0" frameY="-3" frameWidth="97" frameHeight="128"/>
+	<SubTexture name="up0006" x="220" y="1464" width="97" height="125" frameX="0" frameY="-3" frameWidth="97" frameHeight="128"/>
+	<SubTexture name="up0007" x="220" y="1464" width="97" height="125" frameX="0" frameY="-3" frameWidth="97" frameHeight="128"/>
+	<SubTexture name="up0008" x="220" y="1464" width="97" height="125" frameX="0" frameY="-3" frameWidth="97" frameHeight="128"/>
+	<SubTexture name="up0009" x="220" y="1464" width="97" height="125" frameX="0" frameY="-3" frameWidth="97" frameHeight="128"/>
+	<SubTexture name="phone idle0000" x="682" y="807" width="100" height="120"/>
+</TextureAtlas>
