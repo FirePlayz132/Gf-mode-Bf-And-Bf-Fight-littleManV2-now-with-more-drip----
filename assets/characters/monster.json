@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-50
+				-20,
+				-51
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
+				-46,
 				27
 			],
 			"anim": "singUP",
@@ -80,7 +80,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-36,
+				-46,
 				27
 			],
 			"anim": "singUPmiss",
@@ -113,7 +113,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				15,
+				14,
 				18
 			],
 			"anim": "hurt",
@@ -199,23 +199,23 @@
 			"indices": []
 		}
 	],
-	"image": "characters/Monster_Assets",
-	"scale": 1,
-	"sing_duration": 4,
-	"healthicon": "monster",
-	"position": [
-		590,
-		330
-	],
-	"camera_position": [
-		0,
-		0
-	],
-	"flip_x": false,
 	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [
+		130,
+		270
+	],
+	"healthicon": "Monster_Assets",
+	"flip_x": false,
 	"healthbar_colors": [
 		49,
 		176,
-		null
-	]
+		209
+	],
+	"camera_position": [
+		-310,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
 }
