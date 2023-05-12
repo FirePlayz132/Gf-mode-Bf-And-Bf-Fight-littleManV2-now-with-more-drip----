@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="imposter.png">
+<TextureAtlas imagePath="bfCar.png">
 	<!-- Created with Adobe Animate version 19.0.0.326 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="imposter_down0000" x="10" y="10" width="231" height="47" frameX="-2" frameY="-39" frameWidth="233" frameHeight="90"/>
