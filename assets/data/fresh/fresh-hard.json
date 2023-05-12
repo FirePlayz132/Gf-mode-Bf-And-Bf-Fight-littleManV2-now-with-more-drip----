@@ -42557,7 +42557,7 @@
 		"player3": null,
 		"splashSkin": "noteSplashes",
 		"song": "Fresh",
-		"needsVoices": true,
+		"needsVoices": false,
 		"arrowSkin": "",
 		"validScore": true,
 		"stage": "stage",
